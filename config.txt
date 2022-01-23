@@ -34,6 +34,7 @@ GIT {
 Linux {
 	SISTEMA OPERATIVO USADO PARA TODO EL PROYECTO
 	}
+	
 Apache {
 	sudo -i
 	apt-get update
@@ -41,6 +42,7 @@ Apache {
 	service apache2 status
 	apache2 -v
 	}
+	
 MySQL {
 	apt-get update
 	apt-get install mysql-server mysql-client -y
