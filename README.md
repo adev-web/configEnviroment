@@ -67,4 +67,14 @@ sudo apt-get install git -y
 1. PHPMyAdmin{
 	apt-get update
 	apt-get install phpmyadmin -y
+	(en la primera ventana grafica presionar la tecla "Space" y luego enter)
+	(en la segunda, para no hacer un revoltijo, poner el password de mysql root que asignamos en el paso de 2. MySQL")
+	(en la tercera ventana seleccionamos la opcion de que se configure automaticamente la sesion de phpMyAdmin)
 }
+
+//- Instalar Gulp
+
+1. Gulp{
+2. 	sudo apt-get update
+3. 	npm install -g gulp
+4. }
