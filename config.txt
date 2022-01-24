@@ -75,7 +75,7 @@ PHPMyAdmin {
 
 Gulp {
 	sudo apt-get update
-	npm install -g gulp sass
+	npm install -g gulp
 	}
 
 ----------------------------------------------------------------------------------------------------
