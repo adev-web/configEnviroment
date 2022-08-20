@@ -53,7 +53,7 @@ MySQL {
 
 PHP {
 	apt-get update
-	apt-get install php libapache2-mod-php php-mysql
+	apt-get install php libapache2-mod-php php-mysql -y
 	php -v
 	}
 
@@ -75,7 +75,7 @@ PHPMyAdmin {
 
 Gulp {
 	sudo apt-get update
-	npm install -g gulp
+	npm install -g gulp sass
 	}
 
 ----------------------------------------------------------------------------------------------------
