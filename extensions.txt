@@ -1,0 +1,14 @@
+Andromeda
+autoclose tag
+autorename tag
+coderunner
+error lens
+codespaces
+highlight tag
+ident rainbow
+intellisense css
+python
+material icons
+path intellisense
+sonarlint
+tabnine
